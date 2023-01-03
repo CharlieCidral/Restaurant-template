@@ -1,3 +1,11 @@
+## Fully responsive Modern Restaurant Application
+
+### React Functional components and their reusability
+### React file and folder structure
+### Fundamental CSS properties to master flex
+### Fundamentals of the CSS BEM Model
+###  Perfectly placed media queries for satisfactory responsiveness covering almost  all devices
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
