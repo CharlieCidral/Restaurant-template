@@ -6,6 +6,9 @@
 ### Fundamentals of the CSS BEM Model
 ###  Perfectly placed media queries for satisfactory responsiveness covering almost  all devices
 
+![image](https://user-images.githubusercontent.com/69029099/210297356-7797be82-5a31-4660-8bf6-10055e9ea906.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
